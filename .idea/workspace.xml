@@ -91,6 +91,7 @@
       <change beforePath="$PROJECT_DIR$/../my-project/src/style/border-1px.less" beforeDir="false" afterPath="$PROJECT_DIR$/../my-project/src/style/border-1px.less" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../my-project/src/utils/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../my-project/src/utils/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../my-project/static/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/../my-project/static/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/config/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
@@ -223,7 +224,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/api/house.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="216">
@@ -248,6 +249,18 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="356">
+                <caret line="182" column="68" lean-forward="true" selection-start-line="182" selection-start-column="68" selection-end-line="182" selection-end-column="68" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config/index.js">
           <provider selected="true" editor-type-id="text-editor">
@@ -268,7 +281,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>getQueryId</find>
       <find>search</find>
       <find>is_search</find>
       <find>getData</find>
@@ -298,6 +310,7 @@
       <find>multipleTable</find>
       <find>showLoading</find>
       <find>tableData</find>
+      <find>lin-xin</find>
     </findStrings>
     <replaceStrings>
       <replace>&lt;script type=&quot;text/ecmascript-6&quot;&gt;</replace>
@@ -314,7 +327,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/components/component/editHouse.vue" />
         <option value="$PROJECT_DIR$/src/components/page/EditHouse.vue" />
         <option value="$PROJECT_DIR$/src/components/component/editPublicity.vue" />
         <option value="$PROJECT_DIR$/src/api/publicity.js" />
@@ -365,6 +377,7 @@
         <option value="$PROJECT_DIR$/src/components/component/editLawyer.vue" />
         <option value="$PROJECT_DIR$/config/index.js" />
         <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -535,15 +548,16 @@
       <workItem from="1568597376665" duration="7554000" />
       <workItem from="1568681971819" duration="367000" />
       <workItem from="1568682483502" duration="4250000" />
-      <workItem from="1568853959688" duration="1395000" />
+      <workItem from="1568853959688" duration="1575000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="299498000" />
+    <option name="totallyTimeSpent" value="299678000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="709" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20969023" />
       <window_info id="Structure" order="1" weight="0.24986765" />
@@ -577,13 +591,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="base" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/api/notice.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="11" column="35" lean-forward="true" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/api/serviceType.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
@@ -1294,6 +1301,16 @@
             <element signature="e#1386#1561#0" />
             <element signature="e#1606#1774#0" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="356">
+            <caret line="182" column="68" lean-forward="true" selection-start-line="182" selection-start-column="68" selection-end-line="182" selection-end-column="68" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
