@@ -2,99 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0ee2d025-b38c-4dc2-b42f-6c9993454608" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/../../.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../.idea/workCode.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ali-oss-publish" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../analifebank-vue-master" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../mdd-leadmall-c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../mdd-leadmall-data" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../mdd-leadmall-data-admin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../mdd-leadmall-h5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../mdd-leadmall-web" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../mdd-leadmall-wxapp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../meidd-admin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../meidd-admin-nuxt-master" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../meidd-admin-nuxt-master_base" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../my-project/src/utils/request.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../php/testDemo/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../php/testDemo/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../php/testDemo/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../php/testDemo/.idea/testDemo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../php/testDemo/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../you-shang/scripts/publish.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../you-shang/src/components/navBar/index.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../you-shang/src/pages/comment/index.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../you-shang/src/pages/comment/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../you-shang/src/pages/comment/main.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../you-shang/src/pages/comment/store.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../you-shang/src/pages/index/main.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../you-shang/src/static/images/backBtn.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../you-shang/src/style/animate.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../you-shang/src/style/border-1px.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../you-shang/static/images/comment/quality1@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../you-shang/static/images/comment/quality2@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../you-shang/static/images/comment/quality3@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../you-shang/static/images/coupon/coupon-name-bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../weshop-vue-master" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../wx-prod/gdxym/mdd-leadmall-wxapp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../wx-prod/mdd-leadmall-wxapp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../wx-prod/multipleApp/mdd-leadmall-wxapp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my-project/.babelrc" beforeDir="false" afterPath="$PROJECT_DIR$/../my-project/.babelrc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my-project/.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/../my-project/.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my-project/.eslintignore" beforeDir="false" afterPath="$PROJECT_DIR$/../my-project/.eslintignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my-project/.eslintrc.js" beforeDir="false" afterPath="$PROJECT_DIR$/../my-project/.eslintrc.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my-project/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../my-project/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my-project/.postcssrc.js" beforeDir="false" afterPath="$PROJECT_DIR$/../my-project/.postcssrc.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my-project/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../my-project/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my-project/build/build.js" beforeDir="false" afterPath="$PROJECT_DIR$/../my-project/build/build.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my-project/build/check-versions.js" beforeDir="false" afterPath="$PROJECT_DIR$/../my-project/build/check-versions.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my-project/build/dev-client.js" beforeDir="false" afterPath="$PROJECT_DIR$/../my-project/build/dev-client.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my-project/build/dev-server.js" beforeDir="false" afterPath="$PROJECT_DIR$/../my-project/build/dev-server.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my-project/build/utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/../my-project/build/utils.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my-project/build/vue-loader.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/../my-project/build/vue-loader.conf.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my-project/build/webpack.base.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/../my-project/build/webpack.base.conf.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my-project/build/webpack.dev.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/../my-project/build/webpack.dev.conf.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my-project/build/webpack.prod.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/../my-project/build/webpack.prod.conf.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my-project/config/dev.env.js" beforeDir="false" afterPath="$PROJECT_DIR$/../my-project/config/dev.env.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my-project/config/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../my-project/config/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my-project/config/prod.env.js" beforeDir="false" afterPath="$PROJECT_DIR$/../my-project/config/prod.env.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my-project/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../my-project/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my-project/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../my-project/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my-project/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../my-project/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my-project/package.swan.json" beforeDir="false" afterPath="$PROJECT_DIR$/../my-project/package.swan.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my-project/project.config.json" beforeDir="false" afterPath="$PROJECT_DIR$/../my-project/project.config.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my-project/project.swan.json" beforeDir="false" afterPath="$PROJECT_DIR$/../my-project/project.swan.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my-project/scripts/publish.js" beforeDir="false" afterPath="$PROJECT_DIR$/../my-project/scripts/publish.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my-project/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../my-project/src/App.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my-project/src/app.json" beforeDir="false" afterPath="$PROJECT_DIR$/../my-project/src/app.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my-project/src/assets/images/user.png" beforeDir="false" afterPath="$PROJECT_DIR$/../my-project/src/assets/images/user.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my-project/src/components/card.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../my-project/src/components/card.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my-project/src/components/navBar/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../my-project/src/components/navBar/index.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my-project/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/../my-project/src/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my-project/src/pages/comment/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../my-project/src/pages/comment/index.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my-project/src/pages/comment/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/../my-project/src/pages/comment/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my-project/src/pages/comment/main.json" beforeDir="false" afterPath="$PROJECT_DIR$/../my-project/src/pages/comment/main.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my-project/src/pages/comment/store.js" beforeDir="false" afterPath="$PROJECT_DIR$/../my-project/src/pages/comment/store.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my-project/src/pages/counter/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../my-project/src/pages/counter/index.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my-project/src/pages/counter/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/../my-project/src/pages/counter/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my-project/src/pages/counter/store.js" beforeDir="false" afterPath="$PROJECT_DIR$/../my-project/src/pages/counter/store.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my-project/src/pages/index/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../my-project/src/pages/index/index.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my-project/src/pages/index/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/../my-project/src/pages/index/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my-project/src/pages/index/main.json" beforeDir="false" afterPath="$PROJECT_DIR$/../my-project/src/pages/index/main.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my-project/src/pages/logs/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../my-project/src/pages/logs/index.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my-project/src/pages/logs/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/../my-project/src/pages/logs/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my-project/src/pages/logs/main.json" beforeDir="false" afterPath="$PROJECT_DIR$/../my-project/src/pages/logs/main.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my-project/src/static/images/backBtn.png" beforeDir="false" afterPath="$PROJECT_DIR$/../my-project/src/static/images/backBtn.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my-project/src/style/animate.less" beforeDir="false" afterPath="$PROJECT_DIR$/../my-project/src/style/animate.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my-project/src/style/border-1px.less" beforeDir="false" afterPath="$PROJECT_DIR$/../my-project/src/style/border-1px.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my-project/src/utils/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../my-project/src/utils/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my-project/static/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/../my-project/static/.gitkeep" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/config/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/api/house.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/api/house.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/api/user.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/api/user.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/common/Sidebar.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/common/Sidebar.vue" afterDir="false" />
@@ -103,43 +10,6 @@
       <change beforePath="$PROJECT_DIR$/src/components/page/Login.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/page/Login.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/router/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/utils/utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/utils.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../you-shang/.babelrc" beforeDir="false" afterPath="$PROJECT_DIR$/../you-shang/.babelrc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../you-shang/.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/../you-shang/.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../you-shang/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../you-shang/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../you-shang/.postcssrc.js" beforeDir="false" afterPath="$PROJECT_DIR$/../you-shang/.postcssrc.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../you-shang/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../you-shang/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../you-shang/build/build.js" beforeDir="false" afterPath="$PROJECT_DIR$/../you-shang/build/build.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../you-shang/build/check-versions.js" beforeDir="false" afterPath="$PROJECT_DIR$/../you-shang/build/check-versions.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../you-shang/build/dev-client.js" beforeDir="false" afterPath="$PROJECT_DIR$/../you-shang/build/dev-client.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../you-shang/build/dev-server.js" beforeDir="false" afterPath="$PROJECT_DIR$/../you-shang/build/dev-server.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../you-shang/build/utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/../you-shang/build/utils.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../you-shang/build/vue-loader.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/../you-shang/build/vue-loader.conf.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../you-shang/build/webpack.base.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/../you-shang/build/webpack.base.conf.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../you-shang/build/webpack.dev.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/../you-shang/build/webpack.dev.conf.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../you-shang/build/webpack.prod.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/../you-shang/build/webpack.prod.conf.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../you-shang/config/dev.env.js" beforeDir="false" afterPath="$PROJECT_DIR$/../you-shang/config/dev.env.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../you-shang/config/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../you-shang/config/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../you-shang/config/prod.env.js" beforeDir="false" afterPath="$PROJECT_DIR$/../you-shang/config/prod.env.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../you-shang/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../you-shang/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../you-shang/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../you-shang/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../you-shang/package.swan.json" beforeDir="false" afterPath="$PROJECT_DIR$/../you-shang/package.swan.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../you-shang/project.config.json" beforeDir="false" afterPath="$PROJECT_DIR$/../you-shang/project.config.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../you-shang/project.swan.json" beforeDir="false" afterPath="$PROJECT_DIR$/../you-shang/project.swan.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../you-shang/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../you-shang/src/App.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../you-shang/src/app.json" beforeDir="false" afterPath="$PROJECT_DIR$/../you-shang/src/app.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../you-shang/src/components/card.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../you-shang/src/components/card.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../you-shang/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/../you-shang/src/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../you-shang/src/pages/counter/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../you-shang/src/pages/counter/index.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../you-shang/src/pages/counter/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/../you-shang/src/pages/counter/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../you-shang/src/pages/counter/store.js" beforeDir="false" afterPath="$PROJECT_DIR$/../you-shang/src/pages/counter/store.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../you-shang/src/pages/index/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../you-shang/src/pages/index/index.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../you-shang/src/pages/index/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/../you-shang/src/pages/index/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../you-shang/src/pages/logs/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../you-shang/src/pages/logs/index.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../you-shang/src/pages/logs/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/../you-shang/src/pages/logs/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../you-shang/src/pages/logs/main.json" beforeDir="false" afterPath="$PROJECT_DIR$/../you-shang/src/pages/logs/main.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../you-shang/src/utils/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../you-shang/src/utils/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../you-shang/static/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/../you-shang/static/.gitkeep" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../you-shang/static/images/user.png" beforeDir="false" afterPath="$PROJECT_DIR$/../you-shang/static/images/user.png" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -162,115 +32,7 @@
     <favorites_list name="vue-manage-system-master" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/component/editLawyer.vue">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="20" column="54" selection-start-line="20" selection-start-column="54" selection-end-line="20" selection-end-column="54" />
-              <folding>
-                <element signature="n#el-form-item#0;n#el-form#0;n#div#0;n#template#0;n#!!top" />
-                <element signature="n#el-form-item#1;n#el-form#0;n#div#0;n#template#0;n#!!top" />
-                <element signature="n#el-form-item#4;n#el-form#0;n#div#0;n#template#0;n#!!top" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/api/lawyer.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="25" column="11" selection-start-line="25" selection-start-column="11" selection-end-line="25" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/utils/utils.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
-              <folding>
-                <element signature="n#!!doc" />
-                <element signature="e#50#76#0" expanded="true" />
-                <element signature="e#1029#1572#0" />
-                <element signature="e#2648#2755#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/package.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="20" column="10" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/api/serviceBanner.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="29" column="31" selection-start-line="29" selection-start-column="31" selection-end-line="29" selection-end-column="31" />
-              <folding>
-                <element signature="e#100#272#0" />
-                <element signature="e#309#479#0" />
-                <element signature="e#518#689#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/api/house.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="68" lean-forward="true" selection-start-line="68" selection-end-line="68" />
-              <folding>
-                <element signature="e#104#267#0" />
-                <element signature="e#131#259#0" />
-                <element signature="e#309#470#0" />
-                <element signature="e#336#462#0" />
-                <element signature="e#512#679#0" />
-                <element signature="e#539#671#0" />
-                <element signature="e#721#893#0" />
-                <element signature="e#747#885#0" />
-                <element signature="e#939#1109#0" />
-                <element signature="e#966#1101#0" />
-                <element signature="e#1160#1331#0" />
-                <element signature="e#1187#1323#0" />
-                <element signature="e#1386#1561#0" />
-                <element signature="e#1606#1774#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="356">
-                <caret line="182" column="68" lean-forward="true" selection-start-line="182" selection-start-column="68" selection-end-line="182" selection-end-column="68" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config/index.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -323,6 +85,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="3b4201c1-fa61-43fb-8f22-254e74aafc83" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -382,10 +147,10 @@
     </option>
   </component>
   <component name="JsFlowSettings">
-    <service-enabled>false</service-enabled>
+    <service-enabled>true</service-enabled>
     <exe-path />
-    <annotation-enable>false</annotation-enable>
-    <other-services-enabled>false</other-services-enabled>
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
   </component>
   <component name="ProjectConfigurationFiles">
     <option name="files">
@@ -424,6 +189,8 @@
   </component>
   <component name="PropertiesComponent">
     <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="editor.config.ad.shown" value="true" />
     <property name="js-jscs-nodeInterpreter" value="D:\Program Files\nodejs\node.exe" />
@@ -431,7 +198,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -548,17 +315,41 @@
       <workItem from="1568597376665" duration="7554000" />
       <workItem from="1568681971819" duration="367000" />
       <workItem from="1568682483502" duration="4250000" />
-      <workItem from="1568853959688" duration="1575000" />
+      <workItem from="1568853959688" duration="3665000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="299678000" />
+    <option name="totallyTimeSpent" value="301768000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="709" extended-state="0" />
-    <editor active="true" />
     <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20969023" />
+      <window_info id="Structure" order="1" weight="0.24986765" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="GitHub Pull Requests" sideWeight="0.49960285" weight="0.32901135" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32998884" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TypeScript" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.28525123" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50119144" side_tool="true" visible="true" weight="0.35008103" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.4988086" weight="0.64343596" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+    <layout-to-restore>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20969023" />
       <window_info id="Structure" order="1" weight="0.24986765" />
       <window_info id="npm" order="2" side_tool="true" />
@@ -581,7 +372,7 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Database" order="3" />
-    </layout>
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -1269,15 +1060,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/api/serviceBanner.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="29" column="31" selection-start-line="29" selection-start-column="31" selection-end-line="29" selection-end-column="31" />
-          <folding>
-            <element signature="e#100#272#0" />
-            <element signature="e#309#479#0" />
-            <element signature="e#518#689#0" />
-          </folding>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="108">
+            <caret line="165" lean-forward="true" selection-start-line="165" selection-end-line="165" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
@@ -1304,13 +1093,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="356">
-            <caret line="182" column="68" lean-forward="true" selection-start-line="182" selection-start-column="68" selection-end-line="182" selection-end-column="68" />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/src/api/serviceBanner.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="29" column="31" selection-start-line="29" selection-start-column="31" selection-end-line="29" selection-end-column="31" />
+          <folding>
+            <element signature="e#100#272#0" />
+            <element signature="e#309#479#0" />
+            <element signature="e#518#689#0" />
+          </folding>
         </state>
       </provider>
     </entry>
