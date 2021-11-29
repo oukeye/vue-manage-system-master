@@ -13,7 +13,7 @@
     "babel-polyfill": "^6.23.0",
     "element-ui": "^2.4.5",
     "jwt-simple": "^0.5.5",
-    "mavon-editor": "^2.5.4",
+    "mavon-editor": "^2.8.2",
     "md5": "^2.2.1",
     "vue": "^2.5.16",
     "vue-cropperjs": "^2.2.0",
